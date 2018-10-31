@@ -4,5 +4,6 @@
 ### Full-Stack Developer
 
 ## Matthieu is my name.
+I am a web developer
 
 ## Chauncy Nowak
